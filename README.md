@@ -2,9 +2,9 @@
 
 # Table of Contents
 - [Requirements](#Requirements)
-- [Creating the Bootable Drive](#Creating the Bootable Drive)
-- [Booting into the Environment](#Booting into the Live Environment)
-- [Creating Arch Linux](#Creating Arch Linux)
+- [Creating the Bootable Drive](#Creating-the-Bootable-Drive)
+- [Booting into the Environment](#Booting-into-the-Live-Environment)
+- [Creating Arch Linux](#Creating-Arch-Linux)
 
 ## Requirements
 - A computer
